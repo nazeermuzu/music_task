@@ -1,4 +1,4 @@
-package com.example.music_taks
+package com.example.music_task
 
 import io.flutter.embedding.android.FlutterActivity
 
